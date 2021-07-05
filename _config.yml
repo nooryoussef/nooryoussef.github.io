@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 
 title: Noor Youssef
 description: [A short description of your site's purpose]
+logo: Top left
+show_downloads: "false"
