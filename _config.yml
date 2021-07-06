@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: Noor Youssef
 description: Personal webpage
 logo: Top left
-show_downloads: "false"
+show_downloads: False
