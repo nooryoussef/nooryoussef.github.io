@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
+    <title>2 | Noor Youssef</title>
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,22 +13,67 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Learning from pre-pandemic data to forecast viral escape</title>
+      <link>https://example.com/publication/thadani_etal_2022/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/thadani_etal_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of amino acid propensities under stability-mediated epistasis</title>
+      <link>https://example.com/publication/youssef_etal_2022/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/youssef_etal_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expanding the search for sperm transmission elements in the mitochondrial genomes of bivalve mollusks</title>
+      <link>https://example.com/publication/stewart_etal_2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/stewart_etal_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shifts in amino acid preferences as proteins evolve: A synthesis of experimental and theoretical work</title>
+      <link>https://example.com/publication/youssef_etal_2021a/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/youssef_etal_2021a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consequences of Stability-Induced Epistasis for Substitution Rates</title>
+      <link>https://example.com/publication/youssef_etal_2020/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/youssef_etal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Phenotype-Genotype Codon Model for Detecting Adaptive Evolution</title>
+      <link>https://example.com/publication/jones_etal_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jones_etal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenomenological Load on Model Parameters Can Lead to False Biological Conclusions</title>
+      <link>https://example.com/publication/jones_etal_2018/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jones_etal_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shifting Balance on a Static Mutation–Selection Landscape: A Novel Scenario of Positive Selection</title>
+      <link>https://example.com/publication/jones_etal_2017/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jones_etal_2017/</guid>
+      <description></description>
     </item>
     
   </channel>
