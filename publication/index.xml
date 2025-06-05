@@ -100,5 +100,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Computationally designed proteins mimic antibody immune evasion in viral evolution</title>
+      <link>https://example.com/publication/youssef_etal_2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/youssef_etal_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep mutational scanning of hepatitis B virus reveals a mechanism for cis-preferential reverse transcription</title>
+      <link>https://example.com/publication/yu_etal_2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yu_etal_2024/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -148,5 +148,11 @@
   </url><url>
     <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/youssef_etal_2025/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/yu_etal_2024/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
