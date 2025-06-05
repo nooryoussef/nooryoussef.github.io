@@ -10,24 +10,32 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication-type/2/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/thadani_etal_2022/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication/youssef_etal_2025/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/</loc>
-    <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/yu_etal_2024/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/thadani_etal_2022/</loc>
+    <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/youssef_etal_2022/</loc>
@@ -147,12 +155,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/youssef_etal_2025/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/yu_etal_2024/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

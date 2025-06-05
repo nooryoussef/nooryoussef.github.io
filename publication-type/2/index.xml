@@ -5,7 +5,7 @@
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Computationally designed proteins mimic antibody immune evasion in viral evolution</title>
+      <link>https://example.com/publication/youssef_etal_2025/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/youssef_etal_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep mutational scanning of hepatitis B virus reveals a mechanism for cis-preferential reverse transcription</title>
+      <link>https://example.com/publication/yu_etal_2024/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yu_etal_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning from pre-pandemic data to forecast viral escape</title>
       <link>https://example.com/publication/thadani_etal_2022/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/thadani_etal_2022/</guid>
       <description></description>
     </item>
@@ -73,22 +89,6 @@
       <link>https://example.com/publication/jones_etal_2017/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/jones_etal_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computationally designed proteins mimic antibody immune evasion in viral evolution</title>
-      <link>https://example.com/publication/youssef_etal_2025/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/youssef_etal_2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep mutational scanning of hepatitis B virus reveals a mechanism for cis-preferential reverse transcription</title>
-      <link>https://example.com/publication/yu_etal_2024/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yu_etal_2024/</guid>
       <description></description>
     </item>
     
